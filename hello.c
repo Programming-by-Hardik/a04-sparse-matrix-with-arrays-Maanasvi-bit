@@ -130,5 +130,5 @@ bool testPrintSparseMatrix() {
     printSparseMatrix(sparseMatrix, sparseMatrix[0][2]);
 
     // Since printSparseMatrix only prints the output, we assume it passes if the format is correct
-    return true;
+    return true;
 }
